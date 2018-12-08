@@ -17,3 +17,4 @@ var option4 = +prompt("Во сколько обойдется?", "");
 appData.expenses.option1 = option2;
 appData.expenses.option3 = option4;
 alert(appData.budget / 30);
+
